@@ -1,6 +1,6 @@
-# Heesun (Sun) Lee
+# Heesun Lee
 
-I'm a developer focused on building consistent and reliable web apps with **React, Next.js, TypeScript, and Prisma**.  
+Hi, I’m Heesun. I build web apps with a focus on consistency, clear data design, and solid user experience.
 
 
 ### 🔗 Links
